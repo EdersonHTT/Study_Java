@@ -1,8 +1,8 @@
 package Orientação_a_Obijetos.Stream;
 
 import Orientação_a_Obijetos.Stream.modelos.Filme;
-import Orientação_a_Obijetos.Stream.modelos.Titulo;
 import Orientação_a_Obijetos.Stream.modelos.Serie;
+import Orientação_a_Obijetos.Stream.modelos.Titulo;
 
 import java.util.ArrayList;
 import java.util.Collections;
